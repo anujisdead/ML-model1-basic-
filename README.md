@@ -13,4 +13,8 @@ Both of these models being similar return a slight variation of values towards t
 This is a basic model built on glass.csv file.
 KNN uses a simple methodology of smallest eucledian distance between data poionts and K represents the number of nearest neighbours we use to get the value of the newset data point
 
+*SVC*
+Prediction of diabetes using SVC supervised learning model.
+Prediction of breast cancer using SVC supervised learning model
+
 
